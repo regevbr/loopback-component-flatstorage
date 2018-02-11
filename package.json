@@ -1,0 +1,42 @@
+{
+  "name": "loopback-component-flatstorage",
+  "version": "1.0.0",
+  "description": "loopback component for attaching to varioud cloud storage providers with ACL functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regevbr/loopback-component-flat-storage.git"
+  },
+  "keywords": [
+    "loopback",
+    "node",
+    "node.js",
+    "javascript",
+    "storage",
+    "cloud",
+    "aws",
+    "s3",
+    "azure",
+    "blob",
+    "block",
+    "component",
+    "flat"
+  ],
+  "author": "Regev Brody",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/regevbr/loopback-component-flatstorage/issues"
+  },
+  "homepage": "https://github.com/regevbr/loopback-component-flatstorage#readme",
+  "dependencies": {
+    "formidable": "^1.1.1",
+    "loopback-connector": "^4.4.0",
+    "pkgcloud": "^1.5.0",
+    "string_decoder": "^1.0.3",
+    "strong-globalize": "^2.10.0",
+    "uuid": "^3.2.1"
+  }
+}

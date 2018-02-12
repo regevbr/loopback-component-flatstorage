@@ -1,7 +1,7 @@
 {
   "name": "loopback-component-flatstorage",
   "version": "1.0.0",
-  "description": "loopback component for attaching to varioud cloud storage providers with ACL functionality",
+  "description": "loopback component for attaching to various cloud storage providers with ACL functionality",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -38,6 +38,7 @@ datasource.json:
     "provider": "amazon",
     "connector": "loopback-component-flatstorage",
     "container": "user-images",
+    "region": "eu-central-1",
     "key": "<key>",
     "keyId": "<key-id>"
   }

@@ -36,7 +36,7 @@ datasource.json:
   "ImagesS3": {
     "name": "ImagesS3",
     "provider": "amazon",
-    "connector": "flatstorage",
+    "connector": "loopback-component-flatstorage",
     "container": "user-images",
     "key": "<key>",
     "keyId": "<key-id>"

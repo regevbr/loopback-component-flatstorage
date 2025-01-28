@@ -36,7 +36,7 @@
     "loopback-connector": "4.8.0",
     "pkgcloud": "^2.2.0",
     "string_decoder": "^1.0.3",
-    "strong-globalize": "^2.10.0",
+    "strong-globalize": "^6.0.6",
     "underscore": "^1.8.3",
     "uuid": "^3.2.1"
   }
